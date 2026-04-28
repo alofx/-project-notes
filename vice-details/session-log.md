@@ -96,3 +96,42 @@ Based on the user's existing projects (Alo Scaling Solutions, ATE), the Vice Det
 ---
 
 > **Status:** Website planning phase complete. Awaiting video asset generation to begin build.
+
+---
+
+## Session 2 — Website Build Complete
+
+### What We Did
+1. Installed Node.js and ffmpeg on MacBook
+2. Combined 3 videos into one scroll-reactive hero video (4K + 1080p web version)
+3. Created Vice Details website at `~/projects/vice-details`
+4. Built full Next.js site with scroll-reactive hero, services, how it works, booking CTA, footer
+5. Pushed code to GitHub: `github.com/alofx/vice-details`
+
+### Files Created
+- `~/projects/vice-details/` — Full Next.js project
+- `hero-scroll-video-4k.mp4` — 4K version in vice-details assets + ALO SCALE folder
+- `hero-scroll.mp4` — Web-optimized 1080p version in project public folder
+
+### Website Sections
+| Section | Component |
+|---------|-----------|
+| Navbar | `components/Navbar.tsx` |
+| Scroll Hero | `components/ScrollHero.tsx` |
+| Services | `components/Services.tsx` |
+| How It Works | `components/HowItWorks.tsx` |
+| Booking CTA | `components/CTA.tsx` |
+| Footer | `components/Footer.tsx` |
+
+### To Pull on PC
+```bash
+cd C:\Users\babyg\projects  # or wherever
+git clone https://github.com/alofx/vice-details.git
+cd vice-details
+npm install
+npm run dev
+```
+
+---
+
+> **Status:** Website v1 complete and live on GitHub. Preview at `http://localhost:3000`

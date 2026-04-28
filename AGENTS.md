@@ -7,6 +7,7 @@ Both projects are synced to GitHub for cross-device access.
 |---------|-------------|---------------|-----------|
 | **Alo Scaling Solutions** | [github.com/alofx/alo-scaling-solutions](https://github.com/alofx/alo-scaling-solutions) | `C:\Users\babyg\alo-scaling-solutions\` | `~/projects/alo-scaling-solutions/` |
 | **ATE — All The Essentials** | [github.com/alofx/ate](https://github.com/alofx/ate) | `C:\Users\babyg\ate\` | `~/projects/ate/` |
+| **Vice Details** | `-project-notes/vice-details/` | TBD | `~/Desktop/Kimi Documents/-project-notes/vice-details/` |
 
 **GitHub Account:** `alofx` | **Email:** alofxhayati@gmail.com
 

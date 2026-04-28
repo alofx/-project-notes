@@ -2,6 +2,15 @@
 
 Central docs for all projects by **Alo Scaling Solutions** / **alofx**.
 
+## Filing System
+
+| Topic | Location |
+|-------|----------|
+| **Alo Scaling Solutions** | `alo-scaling-solutions/` folder |
+| **ATE — All The Essentials** | `ate/` folder |
+| **New Projects** | Create a new folder/file for that project |
+| **General / Miscellaneous** | `miscellaneous/` folder |
+
 ## What's in here
 
 | File | Purpose |

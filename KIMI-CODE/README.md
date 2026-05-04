@@ -19,6 +19,13 @@
 
 ---
 
+## Marketing Skills Library
+
+**[→ marketing-skills/README.md](./marketing-skills/README.md)** — 35+ marketing skills loaded:
+- SEO, CRO, Copywriting, Paid Ads, Analytics
+- Email sequences, Social content, Launch strategy
+- Customer research, Competitor profiling, Pricing strategy
+
 ## Active Projects
 
 | Project | Status | Repo / Location |
